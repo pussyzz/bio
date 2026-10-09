@@ -43,5 +43,5 @@ HTML / CSS / JavaScript / GitHub
 > status
 Learning and building everyday 🚀
 
-demo source : https://ahlakidk15.pages.dev/
-tải về tự edit lại và tất cả đều không bị mã hoá file nào chỉnh cẩn thận 
+My Website : https://thanhle.pages.dev/
+
